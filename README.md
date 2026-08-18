@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Mukesh P
 
-<!--
-**Mukesh631102/Mukesh631102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | AI/ML Engineer | Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building
+AI-powered applications and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+- AI/ML projects
+- RAG & LLM applications
+- Full-stack applications
+- Data-driven solutions
+
+🌱 Currently learning:
+- Generative AI
+- RAG
+- LangChain & LangGraph
+- Machine Learning
+- Cloud & DevOps
+
+💻 Tech Stack
+
+Python • C++ • SQL • JavaScript • React • FastAPI • Flask  
+Machine Learning • Deep Learning • RAG • LLMs • PostgreSQL • Git
+
+### Featured Projects
+
+🤖 AI Interviewer  
+🌾 AgriShield – Autonomous Farming AI  
+🧠 Mecypher AI  
+🌱 AI Plant Disease Detection  
+💳 Sentinel Pay  
+
+
+### Connect with me
+
+[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://github.com/Mukesh631102)
