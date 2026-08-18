@@ -34,4 +34,4 @@ Machine Learning • Deep Learning • RAG • LLMs • PostgreSQL • Git
 
 ### Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://github.com/Mukesh631102)
+[LinkedIn](https://www.linkedin.com/in/mukesh-p-4a3873297/) • [GitHub](https://github.com/Mukesh631102)
